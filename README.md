@@ -15,7 +15,7 @@ Attention, You pay [0.7% Tax](https://docs.trading-tigers.com/tokenomics/tokenom
 ### Setup your Address and secret key in Settings.json and Run main-GUI.exe.
 
 # Install
-First of all, you need install Python3+
+**First of all, you need install Python3+**
 Run on Android you need Install [Termux](https://termux.com/)  
 ```shell
 termux: $ pkg install python git
@@ -33,16 +33,16 @@ cd Pancakeswap_BSC_Sniper_Bot
 
 Install Requirements:  
 ```python
-python -m pip install -r requirements.txt
+python(3) -m pip install -r requirements.txt
 ```  
 
 Start Sniper:  
 ```python
-python Sniper.py -t <TOKEN_ADDRESS> -a <AMOUNT> -tx <TXAMOUNT> -hp -wb <BLOCKS WAIT BEFORE BUY> -tp <TAKE PROFIT IN PERCENT> -sl <STOP LOSE IN PERCENT>
-python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -a 0.001 -tx 2 -hp  -wb 10 -tp 50
-python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 --sellonly
-python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -a 0.001 --buyonly
-python Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -tsl 10 -nb
+python(3) Sniper.py -t <TOKEN_ADDRESS> -a <AMOUNT> -tx <TXAMOUNT> -hp -wb <BLOCKS WAIT BEFORE BUY> -tp <TAKE PROFIT IN PERCENT> -sl <STOP LOSE IN PERCENT>
+python(3) Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -a 0.001 -tx 2 -hp  -wb 10 -tp 50
+python(3) Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 --sellonly
+python(3) Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -a 0.001 --buyonly
+python(3) Sniper.py -t 0x34faa80fec0233e045ed4737cc152a71e490e2e3 -tsl 10 -nb
 ```  
 
 Here are all options with infos:  
