@@ -8,7 +8,7 @@ This Tool only buys/sells with/to BNB but use Multi Hops to get the best Output!
 Attention, You pay [0.7% Tax](https://docs.trading-tigers.com/tokenomics/tokenomics) on your swap amount!
 
 ### Support Us&You by Buying [TradingTigers Token](https://bscscan.com/token/0x34faa80fec0233e045ed4737cc152a71e490e2e3)  
-![Sniper](https://camo.githubusercontent.com/903e37c7728f19549eb56fcf25babe248bc6dea2d50fea0292c497b17a70eed9/68747470733a2f2f646f63732e70616e63616b65737761702e66696e616e63652f7e2f66696c65732f76302f622f676974626f6f6b2d32383432372e61707073706f742e636f6d2f6f2f6173736574732532462d4d48524558374448636c6a625935496b6a674a2532462d4d6246535033324b7079584c756a62453646442532462d4d62465355486f7351696f455f68384f674462253246646f63732532306d61737468656164253230283231292e706e673f616c743d6d6564696126746f6b656e3d33346134346532302d313731662d343364372d396336322d613835633231333061373431)  
+![Sniper](Screenshot.png)  
 
 # Download
 ### If you are not familiar with Python please have a look at [Releases](https://github.com/Trading-Tiger/Pancakeswap_BSC_Sniper_Bot/releases), there you can download Windows executable.
